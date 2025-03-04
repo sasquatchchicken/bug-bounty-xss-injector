@@ -54,4 +54,4 @@ data-locale="en_US"
 <meta charset="UTF-8"/>
 ```
 
-## This tool is intended only for ethical hacking and responsible bug bounty research.  Do not use this tool on systems you do not own or have explicit permission to test.  Ensure all testing is compliant with the web application’s security policy.
+## This tool is intended only for ethical hacking and responsible bug bounty research.  Do not use this tool on systems you do not own or have permission to test.
